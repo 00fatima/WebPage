@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(245, 238, 203);
+}
+
+#main {
+    height: 250px;
+    width: 800px;
+    background-color: peachpuff;
+    text-align: center;
+    align-content: center;
+    margin-left: 200px;
+}
+
+#hone {
+    text-align: center;
+}
+#htwo{
+    text-align: center;
+}
+.one {
+    display: inline;
+    margin: 20px;
+    margin-left: 140px;
+}
+
+.two {
+    margin: 20px;
+    display: inline;
+    margin-left: 220px;
+    
+}
+
+.three {
+    display: inline;
+    margin: 10px;
+    margin-left: 205px;
+    text-decoration: solid;
+
+}
